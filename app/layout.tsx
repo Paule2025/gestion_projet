@@ -7,9 +7,7 @@ export const metadata: Metadata = {
   title: "TaskFlow",
   description: "Eliminez le chaos, suivez le flux !",
   icons: {
-    icon: "./favicon.png",
-    shortcut: "/favicon.png",
-    apple: "/favicon.png",
+    icon: "/favicon.ico"
   },
 };
 
